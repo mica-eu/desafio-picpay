@@ -6,15 +6,9 @@
 
 <script>
 export default {
-  name: 'app',
-  data () {
-    return {
-      msg: 'Olá'
-    }
-  }
+  name: 'app'
 };
 </script>
 
 <style>
-@import '../../node_modules/bulma/css/bulma.css';
 </style>

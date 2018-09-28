@@ -1,8 +1,10 @@
+import 'bulma/css/bulma.css';
+
 import Vue from 'vue';
 import store from './store';
 import router from './router';
 
-import App from './components/App.vue';
+import App from './App.vue';
 
 new Vue({
   el: '#app',
